@@ -35,17 +35,6 @@ git clone https://github.com/this-is-you/first-contributions.git
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
-## Create a branch
-
-Change to the repository directory on your computer (if you are not already there):
-
-```bash
-cd first-contributions
-```
-
-Now, create a branch using the `git branch` command:
-
-```bash
 git branch your-new-branch-name
 ```
 

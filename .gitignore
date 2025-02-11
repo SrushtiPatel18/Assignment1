@@ -28,9 +28,7 @@ x86/
 [Aa][Rr][Mm]64/
 bld/
 [Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
+
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -46,16 +44,14 @@ Generated\ Files/
 
 # NUnit
 *.VisualState.xml
-TestResult.xml
-nunit-*.xml
+
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
 dlldata.c
 
-# Benchmark Results
-BenchmarkDotNet.Artifacts/
+
 
 # .NET Core
 project.lock.json
